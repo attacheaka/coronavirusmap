@@ -9,3 +9,5 @@
 
 <body style="background: url('assets/img/coronavirus-bleu.jpg') ; background-size: cover;">
  	
+
+<a href="index.php" class="btn btn-info"> Accueil </a>

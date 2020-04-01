@@ -10,6 +10,6 @@ $date = date_parse($datas["Date"]);
 
 require('partials/header.php');
 
-require('views/pays.view.php');
+require('views/index.view.php');
 
 require('partials/footer.php');
